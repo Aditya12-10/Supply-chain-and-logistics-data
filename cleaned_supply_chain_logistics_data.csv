@@ -1,0 +1,52 @@
+Shipment_ID,Order_ID,Origin,Destination,Carrier,Transport_Mode,Product_Category,Quantity_Units,Weight_KG,Distance_KM,Ship_Date,Estimated_Delivery_Date,Actual_Delivery_Date,Shipment_Status,On_Time_Delivery,Freight_Cost_INR
+SHP-2026026,ORD-85228,"Pune, MH","Noida, UP",Delhivery,Air Freight,Electronics,149,401.29,1488,2026-10-07,2026-10-08,,In Transit,In Progress,15000.0
+SHP-2026010,ORD-92016,"Delhi, DL","Indore, MP",Gati-KWE,Rail Cargo,Consumer Goods,216,43.53,484,2026-10-17,2026-10-24,,Delayed,No,2574.28
+SHP-2026003,ORD-85206,"Bengaluru, KA","Indore, MP",DHL Supply Chain,Air Freight,Automotive Parts,52,851.44,1028,2026-10-14,2026-10-15,,Out for Delivery,In Progress,39056.59
+SHP-2026045,ORD-85420,"Kolkata, WB","Surat, GJ",Blue Dart Express,Air Freight,Pharmaceuticals,219,2384.27,1352,2026-10-25,2026-10-26,,Delayed,No,109660.94
+SHP-2026024,ORD-90015,"Hyderabad, TS","Chandigarh, CH",Unknown,Road - FTL,Industrial Machinery,114,197.05,1286,2026-11-09,2026-11-16,,Customs/Checkpoint Hold,In Progress,2837.93
+SHP-2026022,ORD-93801,"Bengaluru, KA","Ghaziabad, UP",Safexpress,Road - FTL,Automotive Parts,487,1018.38,2073,2026-10-05,2026-10-12,2026-10-13,Delivered,No,17305.55
+SHP-2026027,ORD-90717,"Chennai, TN","Lucknow, UP",Safexpress,Rail Cargo,Pharmaceuticals,27,2075.93,257,2026-10-04,2026-10-07,,In Transit,In Progress,18979.3
+SHP-2026041,ORD-92065,"Chennai, TN","Gurugram, HR",TCI Freight,Rail Cargo,Electronics,73,316.58,1891,2026-11-05,2026-11-09,,Out for Delivery,In Progress,4352.54
+SHP-2026043,ORD-89643,"Hyderabad, TS","Jaipur, RJ",DHL Supply Chain,Rail Cargo,Electronics,46,2234.17,533,2026-11-15,2026-11-20,2026-11-20,Delivered,Yes,19867.52
+SHP-2026017,ORD-88610,"Bengaluru, KA","Surat, GJ",Delhivery,Rail Cargo,Industrial Machinery,244,1067.59,2019,2026-10-13,2026-10-16,2026-10-16,Delivered,Yes,11397.2
+SHP-2026020,ORD-85135,"Kolkata, WB","Lucknow, UP",Gati-KWE,Air Freight,Industrial Machinery,289,2488.63,1605,2026-11-14,2026-11-15,,Out for Delivery,In Progress,114284.37
+SHP-2026042,ORD-93802,"Ahmedabad, GJ","Surat, GJ",Safexpress,Rail Cargo,Consumer Goods,137,1194.57,1789,2026-10-29,2026-11-02,,In Transit,In Progress,11271.94
+SHP-2026033,ORD-93446,"Kolkata, WB","Chandigarh, CH",Blue Dart Express,Road - FTL,Pharmaceuticals,60,674.68,1471,2026-10-12,2026-10-19,,Customs/Checkpoint Hold,In Progress,7321.19
+SHP-2026047,ORD-92757,"Bengaluru, KA","Ghaziabad, UP",Gati-KWE,Road - FTL,Electronics,199,139.96,920,2026-11-11,2026-11-17,2026-11-17,Delivered,Yes,2218.81
+SHP-2026012,ORD-93417,"Delhi, DL","Lucknow, UP",TCI Freight,Road - LTL,Automotive Parts,5,1393.35,1476,2026-10-24,2026-11-28,2026-10-28,Delivered,Yes,17305.55
+SHP-2026037,ORD-94424,"Pune, MH","Indore, MP",Safexpress,Road - FTL,Pharmaceuticals,243,1641.94,1154,2026-10-19,2026-10-23,2026-10-23,Delivered,Yes,15561.89
+SHP-2026009,ORD-92119,"Kolkata, WB","Chandigarh, CH",Unknown,Road - LTL,Consumer Goods,83,2154.84,1535,2026-11-01,2026-11-04,,In Transit,Yes,26758.04
+SHP-2026034,ORD-90239,"Kolkata, WB","Noida, UP",Gati-KWE,Road - LTL,Pharmaceuticals,356,2019.18,1723,2026-10-03,2026-10-11,2026-10-11,Delivered,Yes,27080.82
+SHP-2026019,ORD-86335,"Hyderabad, TS","Noida, UP",Blue Dart Express,Road - FTL,Electronics,467,2163.66,370,2026-10-16,2026-10-20,2026-10-20,Delivered,Yes,19302.7
+SHP-2026039,ORD-90185,"Chennai, TN","Jaipur, RJ",Delhivery,Road - FTL,Electronics,238,1924.7,1098,2026-10-16,2026-10-22,,In Transit,In Progress,17305.55
+SHP-2026030,ORD-88541,"Chennai, TN","Noida, UP",DHL Supply Chain,Rail Cargo,Consumer Goods,420,2440.87,612,2026-10-10,2026-10-14,,Delayed,No,23450.94
+SHP-2026013,ORD-85419,"Delhi, DL","Chandigarh, CH",DHL Supply Chain,Road - LTL,Electronics,253,227.85,1921,2026-10-16,2026-10-23,,Out for Delivery,No,3407.23
+SHP-2026025,ORD-90818,"Delhi, DL","Jaipur, RJ",DHL Supply Chain,Air Freight,Automotive Parts,318,1763.3,1902,2026-10-29,2026-10-30,,Delayed,No,81483.44
+SHP-2026036,ORD-91791,"Ahmedabad, GJ","Indore, MP",TCI Freight,Air Freight,Consumer Goods,388,957.18,2098,2026-10-09,2026-10-10,,Delivered,Yes,44008.17
+SHP-2026029,ORD-87542,"Mumbai, MH","Chandigarh, CH",Safexpress,Road - LTL,Industrial Machinery,445,1993.36,331,2026-10-09,2026-10-12,2026-10-13,Delivered,No,26667.63
+SHP-2026001,ORD-86924,"Mumbai, MH","Lucknow, UP",Delhivery,Road - LTL,Automotive Parts,307,1370.24,1114,2026-10-07,2026-10-15,,In Transit,In Progress,17022.34
+UNKNOWN,ORD-94741,"Chennai, TN","Ghaziabad, UP",Blue Dart Express,Road - FTL,Automotive Parts,126,191.08,820,2026-10-05,2026-10-08,,Delayed,No,3796.62
+SHP-2026006,ORD-87764,"Ahmedabad, GJ","Chandigarh, CH",Delhivery,Air Freight,Textiles,92,1528.69,1343,2026-11-13,2026-11-14,,In Transit,In Progress,71113.87
+SHP-2026014,ORD-93827,"Bengaluru, KA","Gurugram, HR",TCI Freight,Rail Cargo,Consumer Goods,480,2411.44,1354,2026-10-11,2026-10-16,2026-10-16,Delivered,Yes,22885.4
+SHP-2026015,ORD-88395,"Pune, MH","Indore, MP",TCI Freight,Air Freight,Industrial Machinery,15,1393.35,1454,2026-11-03,2026-11-04,,Delivered,Yes,9719.3
+SHP-2026044,ORD-91375,"Bengaluru, KA","Jaipur, RJ",Blue Dart Express,Rail Cargo,Industrial Machinery,204,2084.73,1826,2026-10-22,2026-10-29,2026-10-28,Delivered,Yes,19680.4
+SHP-2026031,ORD-85506,"Bengaluru, KA","Chandigarh, CH",Gati-KWE,Road - LTL,Pharmaceuticals,118,2148.6,658,,2026-10-19,2026-10-20,Delivered,No,28324.67
+SHP-2026038,ORD-88601,"Hyderabad, TS","Gurugram, HR",TCI Freight,Road - FTL,Pharmaceuticals,424,847.94,1788,2026-11-02,2026-11-10,,In Transit,In Progress,8294.66
+SHP-2026028,ORD-87243,"Pune, MH","Gurugram, HR",TCI Freight,Rail Cargo,Consumer Goods,488,293.01,2058,2026-11-15,2026-11-21,,In Transit,In Progress,4718.13
+SHP-2026008,ORD-94392,"Ahmedabad, GJ","Jaipur, RJ",TCI Freight,Rail Cargo,Industrial Machinery,280,1866.3,788,2026-11-11,2026-11-17,2026-11-17,Delivered,Yes,18231.08
+SHP-2026004,ORD-90735,"Pune, MH","Ghaziabad, UP",TCI Freight,Rail Cargo,Consumer Goods,1200,1577.17,2014,2026-10-08,2026-10-14,2026-10-14,Delivered,Yes,14810.03
+SHP-2026035,ORD-88328,"Ahmedabad, GJ","Indore, MP",Blue Dart Express,Air Freight,Consumer Goods,465,324.69,865,,2026-10-22,,In Transit,In Progress,16378.86
+SHP-2026011,ORD-93897,"Pune, MH","Chandigarh, CH",Blue Dart Express,Air Freight,Industrial Machinery,139,2191.49,1275,2026-10-11,2026-10-12,2026-10-14,Delivered,No,101021.96
+SHP-2026018,ORD-86712,"Mumbai, MH","Indore, MP",Unknown,Air Freight,Electronics,98,363.35,820,2026-10-16,2026-10-17,2026-10-17,Delivered,Yes,18007.32
+SHP-2026002,ORD-86635,"Chennai, TN","Jaipur, RJ",Safexpress,Road - Unspecified,Consumer Goods,117,1369.18,1169,2026-10-13,2026-10-21,,In Transit,In Progress,13611.19
+SHP-2026021,ORD-87636,"Chennai, TN","Lucknow, UP",Delhivery,Road - FTL,Consumer Goods,304,157.06,1280,2026-11-04,2026-11-07,,In Transit,In Progress,3092.14
+SHP-2026040,ORD-94531,"Chennai, TN","Indore, MP",Gati-KWE,Rail Cargo,Automotive Parts,445,2233.26,1827,2026-10-10,2026-10-18,,In Transit,In Progress,21696.37
+SHP-2026005,ORD-88250,"Delhi, DL","Ghaziabad, UP",TCI Freight,Road - LTL,Pharmaceuticals,237,1393.35,1551,2026-10-06,2026-10-10,,Delivered,No,14100.6
+SHP-2026032,ORD-92641,"Ahmedabad, GJ","Lucknow, UP",Unknown,Road - LTL,Electronics,400,187.51,821,2026-11-12,2026-11-16,2026-11-16,Delivered,Yes,3627.99
+SHP-2026049,ORD-85759,"Mumbai, MH","Jaipur, RJ",Delhivery,Road - FTL,Consumer Goods,116,1416.46,1202,2026-10-10,2026-10-14,2026-10-14,Delivered,Yes,14288.57
+SHP-2026046,ORD-94047,"Chennai, TN","Surat, GJ",Delhivery,Air Freight,Industrial Machinery,212,1702.67,1733,2026-11-01,2026-11-02,2026-11-02,Delivered,Yes,77532.76
+SHP-2026023,ORD-94585,"Mumbai, MH","Noida, UP",Gati-KWE,Air Freight,Pharmaceuticals,140,795.75,1060,2026-10-14,2026-10-15,,In Transit,In Progress,36635.95
+SHP-2026007,ORD-87777,"Hyderabad, TS","Indore, MP",DHL Supply Chain,Road - LTL,Textiles,142,798.9,385,2026-11-15,2026-10-24,,Delivered,Yes,10614.26
+SHP-2026016,ORD-94741,"Chennai, TN","Ghaziabad, UP",Blue Dart Express,Road - FTL,Automotive Parts,126,191.08,820,2026-10-05,2026-10-08,,Delayed,No,3796.62
+SHP-2026050,ORD-91143,"Bengaluru, KA","Noida, UP",Delhivery,Air Freight,Electronics,495,1698.21,1018,2026-11-07,2026-11-08,2026-11-08,Delivered,Yes,77911.09
+SHP-2026048,ORD-90455,"Ahmedabad, GJ","Indore, MP",DHL Supply Chain,Rail Cargo,Pharmaceuticals,184,2499.77,709,2026-10-06,2026-10-12,2026-10-12,Delivered,Yes,23373.41
